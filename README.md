@@ -1,5 +1,4 @@
-# README.md
-About Me ⤵️
+### About Me ⤵️
 
 ➡️ 🌱 I’m currently learning Python. Interested in JavaScript / NodeJS / TS, also.
 
