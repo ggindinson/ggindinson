@@ -9,7 +9,7 @@
 
 ### About Me ⤵️
 
-➡️ 🌱 I’m currently learning Python. A bit worse know Typescrpit and Javascript (Web development) - worked with React, NextJS, NestJS, ExpressJS and others.
+- 🌱 I’m currently learning Python. A bit worse know Typescrpit and Javascript (Web development) - worked with React, NextJS, NestJS, ExpressJS and others.
 
 - 💬 Ask me about **Aiogram, Telegram Bot API, Flask, React, NodeJS, NestJS, NextJS,PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
 
