@@ -4,13 +4,9 @@
 
 <!--- snake -->
 
-<div align="center">
 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
 
-       alt="snake" /></a>
 
-</div>
 
 
 <h1>My Statistics <img title="View my programming statistics below!" align="right" alt="Statistics Icon" src="https://www.freeiconspng.com/uploads/chart-pie-statistics-icon--9.png" height="40" width="40"></h1>
@@ -23,14 +19,10 @@
 
 <!--- trophy (start) -->
 
-<div align=center>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Check trophy">
 
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ggindinson &theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
 
-    </a>
 
-</div>
+
 
 
