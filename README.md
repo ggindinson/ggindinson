@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Aiogram, Telegram Bot API, Flask, React, NodeJS, NestJS, NextJS,PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
 
-- 📫 Feel free to reach me out **[Telegram](https://magistrumdev.t.me)**
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
