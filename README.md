@@ -20,19 +20,19 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,docker,express,figma,github,js,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,github,js,linux,mongodb,mysql,nextjs,nodejs,py,react,redux,tailwind,ts&perline=9" />
   </a>
 </p>
 
 <h1>My Statistics <img title="View my programming statistics below!" align="right" alt="Statistics Icon" src="https://www.freeiconspng.com/uploads/chart-pie-statistics-icon--9.png" height="40" width="40"></h1>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ggindinson&label=Profile%20views&color=0e75b6&style=flat" alt="ggindinson" title="That's a lot of views!"/> <a href="#" title="I love and welcome contributions!"><img align="left" src="https://img.shields.io/badge/contributions-welcome-blue" alt="contributions - welcome"></a> <a href="https://www.microsoft.com/" title="Go to Microsoft homepage"><img align="left" src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white" alt="OS - Windows"></a>
+<img align="left" src="https://komarev.com/ghpvc/?username=ggindinson&label=Profile%20views&color=0e75b6&style=flat" alt="ggindinson" title="That's a lot of views!"/> <a href="#" title="I love and welcome contributions!">
+[![wakatime](https://wakatime.com/badge/user/ee494637-22d8-4967-bed5-a5142a4afd90.svg)](https://wakatime.com/@ee494637-22d8-4967-bed5-a5142a4afd90)
 <br>
 
 <div align="middle">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggindinson&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggindinson&layout=compact"/>
-  <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ggindinson&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&theme=radical" alt="Trophy" />
 </div>
 
 
