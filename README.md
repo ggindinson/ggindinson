@@ -9,10 +9,7 @@
 
 ### About Me ⤵️
 
-- 🌱 I’m currently using Python. A bit worse know Typescrpit and Javascript (Web development) - worked with React, NextJS, NestJS, ExpressJS and others.
-
-- 💬 Ask me about **Aiogram, Telegram Bot API, Flask, React, NodeJS, NestJS, NextJS,PostgreSQL, SQLAlchemy ORM, BeautifulSoup, Selenium**
-
+- 🌱 I’m currently using Python. A bit worse i know Typescript and Javascript (Fullstack Web development) - worked with React, NextJS, NestJS, ExpressJS and others.
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
